@@ -9,7 +9,8 @@ Ethical hackers
 Networking beginners
 Anyone wanting to understand how port scanning works internally
 
-🚀 Features
+🚀 Features:
+
 ✅ Multi‑threaded scanning
 Scans multiple ports simultaneously for high performance.
 
