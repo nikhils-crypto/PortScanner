@@ -10,6 +10,7 @@ Designed for:
 •Networking beginners
 •Anyone wanting to understand how port scanning works internally
 
+
 🚀 Features:
 
 ✅ Multi‑threaded scanning
