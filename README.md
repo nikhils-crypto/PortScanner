@@ -4,10 +4,11 @@ A lightweight, fast, and beginner‑friendly TCP port scanner built using Python
 This project is inspired by concepts from Violent Python but fully rewritten, improved, and modernized.
 
 Designed for:
-Cybersecurity students
-Ethical hackers
-Networking beginners
-Anyone wanting to understand how port scanning works internally
+
+•Cybersecurity students
+•Ethical hackers
+•Networking beginners
+•Anyone wanting to understand how port scanning works internally
 
 🚀 Features:
 
